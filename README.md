@@ -18,8 +18,6 @@ Save the data to the file
 
 
 # CODE
-
-# OUPUT:
 ```
 from sklearn.datasets import load_boston
 boston_data=load_boston()
@@ -131,3 +129,39 @@ y_pred = cross_val_predict(classifier_pipeline, X, y, cv=cv)
 print("RMSE: " + str(round(sqrt(mean_squared_error(y,y_pred)),3)))
 print("R_squared: " + str(round(r2_score(y,y_pred),3)))
 ```
+## output:
+## Read the given dataset:
+![output](s1.png)
+
+
+## Finding of Errors:
+![output](s2.png)
+![output](s3.png)
+![output](s5.png)
+
+
+
+
+
+## Filter Features by Correlation :2
+![output](s6.png)
+![output](s7.png)
+
+
+## Feature Selection Using a Wrapper:4
+![output](s8.png)
+![output](s9.png)
+![output](s10.png)
+![output](s11.png)
+
+
+
+## Pair ploat:
+![output](s12.png)
+
+
+
+
+## Result;
+the various feature selection techniques has been performed on a dataset and saved
+the data to a file
