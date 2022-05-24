@@ -144,11 +144,13 @@ print("R_squared: " + str(round(r2_score(y,y_pred),3)))
 
 
 ## Filter Features by Correlation :2
+![output](s5.png)
 ![output](s6.png)
-![output](s7.png)
+
 
 
 ## Feature Selection Using a Wrapper:4
+![output](s7.png)
 ![output](s8.png)
 ![output](s9.png)
 ![output](s10.png)
