@@ -135,9 +135,10 @@ print("R_squared: " + str(round(r2_score(y,y_pred),3)))
 
 
 ## Finding of Errors:
-![output](s3.png)
+
 ![output](s4.png)
 ![output](s2.png)
+![output](s3.png)
 
 
 
@@ -145,21 +146,25 @@ print("R_squared: " + str(round(r2_score(y,y_pred),3)))
 
 ## Filter Features by Correlation :2
 ![output](s5.png)
-![output](s6.png)
+
 
 
 
 ## Feature Selection Using a Wrapper:4
+![output](s6.png)
 ![output](s7.png)
 ![output](s8.png)
 ![output](s9.png)
-![output](s10.png)
 ![output](s11.png)
+![output](s12.png)
+
+
 
 
 
 ## Pair ploat:
-![output](s12.png)
+
+![output](s10.png)
 
 
 
