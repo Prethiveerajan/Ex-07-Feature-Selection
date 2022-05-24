@@ -137,7 +137,7 @@ print("R_squared: " + str(round(r2_score(y,y_pred),3)))
 ## Finding of Errors:
 ![output](s2.png)
 ![output](s3.png)
-![output](s5.png)
+![output](s4.png)
 
 
 
